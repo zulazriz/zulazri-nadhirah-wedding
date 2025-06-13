@@ -49,7 +49,7 @@ body {
   background-color: var(--container-color);
   box-shadow: 0 3px 12px hsla(var(--hue), var(--sat), 15%, 0.15);
   width: 100%;
-  height: 6rem;
+  height: 5rem;
   padding: 0 1rem;
   display: grid;
   border-radius: 1.25rem 1.25rem 0 0;
